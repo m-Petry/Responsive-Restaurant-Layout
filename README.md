@@ -1,3 +1,3 @@
 # Responsive-Restaurant-Layout
-
-## Projeto de Front-End para página simples responsiva.
+<br>
+Responsive landing page built with Vanilla JS, Html & CSS.
